@@ -137,3 +137,5 @@ captures/
 
 ### Android Patch ###
 gen-external-apklibs
+
+package-lock.json
