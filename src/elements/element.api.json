@@ -1,0 +1,17 @@
+elements: [{ 
+  button: {
+    onPress: 'DrawerOpen',
+    theme: 'dark',
+    transparent: false,
+    bordered: true,
+    rounded: false,
+    width: 'block',
+    iconPosition: 'right',
+    size: 'small',
+    disabled: false,
+    elements: [
+      { icon: 'menu'},
+      { text: 'open'}
+    ]
+  }
+}]
